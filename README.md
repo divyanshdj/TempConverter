@@ -8,7 +8,9 @@
 
 # Temperture Converter
 
-The user will input a temperature in either Fahrenheit or Celsius and press a "convert" button. The converted temperature will then be displayed with the correct unit.
+"Celsius/Fahrenheit/Kelvin Converter"
+
+"Convert temperatures seamlessly between Fahrenheit, Celsius and Kelvin. Enter a temperature, hit 'Convert', and get the result with the correct unit instantly."
 
 <div align="center">
 <a href="https://divyanshdj.github.io/TempConverter/"><strong>➥ Live Demo</strong></a>
